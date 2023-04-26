@@ -1,0 +1,67 @@
+{
+    "2e graad": {
+      "richtingen": [
+        {
+          "naam": "latijn",
+          "verwanten": ["latijn-moderne talen", "latijn-wiskunde"]
+        },
+        {
+          "naam": "sport-wetenschappen",
+          "verwanten": ["sport wetenschappen"]
+        },
+        {
+          "naam": "natuur-wetenschappen",
+          "verwanten": ["wetenschappen-wiskunde"]
+        },
+        {
+          "naam": "economische wetenschappen",
+          "verwanten": ["economie-moderne talen", "economie-wiskunde"]
+        },
+        {
+          "naam": "humane-wetenschappen",
+          "verwanten": ["humane wetenschappen"]
+        },
+        {
+          "naam": "technologische wetenschappen",
+          "verwanten": ["Informatica- en communicatiewetenschappen"]
+        }
+      ]
+    },
+    "3e graad": {
+      "richtingen": [
+        {
+          "naam": "latijn-moderne talen",
+          "verwanten": ["latijn"]
+        },
+        {
+          "naam": "latijn-wiskunde",
+          "verwanten": ["latijn"]
+        },
+        {
+          "naam": "sport wetenschappen",
+          "verwanten": ["sport-wetenschappen"]
+        },
+        {
+          "naam": "wetenschappen-wiskunde",
+          "verwanten": ["natuur-wetenschappen"]
+        },
+        {
+          "naam": "economie-moderne talen",
+          "verwanten": ["economische wetenschappen"]
+        },
+        {
+          "naam": "economie-wiskunde",
+          "verwanten": ["economische wetenschappen"]
+        },
+        {
+          "naam": "humane wetenschappen",
+          "verwanten": ["humane-wetenschappen"]
+        },
+        {
+          "naam": "Informatica- en communicatiewetenschappen",
+          "verwanten": ["technologische wetenschappen"]
+        }
+      ]
+    }
+  }
+  
